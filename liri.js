@@ -80,7 +80,7 @@ function searchSong() {
 function searchMovie() {
   var movieName = process.argv[3];
   if (!movieName) {
-    movieName = "Ironman";
+    movieName = "Iron Man";
   }
   var queryURL =
     `http://www.omdbapi.com/?t=` + movieName + `&y=&plot=short&apikey=trilogy`;
