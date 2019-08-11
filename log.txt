@@ -1,113 +1,262 @@
-Venue: The Criterion OKC
-Location: Oklahoma City, OK, United States
-Date: 10/21/2019Venue: Sunken Garden Theater
+Venue: State Farm Arena
+Location: Atlanta, GA, United States
+
+Date: 08/12/2019undefinedVenue: PNC Arena
+Location: Raleigh, NC, United States
+
+Date: 08/14/2019undefinedVenue: Times Union Center
+Location: Albany, NY, United States
+
+Date: 08/19/2019undefinedVenue: Mohegan Sun Arena
+Location: Montville Center, CT, United States
+
+Date: 08/21/2019undefinedVenue: Scotiabank Arena
+Location: Toronto, , Canada
+
+Date: 08/23/2019undefinedVenue: Scotiabank Arena
+Location: Toronto, , Canada
+
+Date: 08/24/2019undefinedVenue: KeyBank Center
+Location: Buffalo, NY, United States
+
+Date: 08/27/2019undefinedVenue: Madison Square Garden
+Location: New York, NY, United States
+
+Date: 08/29/2019undefinedVenue: Madison Square Garden
+Location: New York, NY, United States
+
+Date: 08/30/2019undefinedVenue: Hersheypark Stadium
+Location: Hershey, PA, United States
+
+Date: 08/31/2019undefinedVenue: PPG Paints Arena
+Location: Pittsburgh, PA, United States
+
+Date: 09/03/2019undefinedVenue: Bryce Jordan Center
+Location: University Park, PA, United States
+
+Date: 09/04/2019undefinedVenue: Schottenstein Center
+Location: Columbus, OH, United States
+
+Date: 09/05/2019undefinedVenue: Little Caesars Arena
+Location: Detroit, MI, United States
+
+Date: 09/07/2019undefinedVenue: Van Andel Arena
+Location: Grand Rapids, MI, United States
+
+Date: 09/08/2019undefinedVenue: Bridgestone Arena
+Location: Nashville, TN, United States
+
+Date: 09/10/2019undefinedVenue: U.S. Bank Arena
+Location: Cincinnati, OH, United States
+
+Date: 09/11/2019undefinedVenue: Bankers Life Fieldhouse
+Location: Indianapolis, IN, United States
+
+Date: 09/13/2019undefinedVenue: Enterprise Center
+Location: St. Louis, MO, United States
+
+Date: 09/14/2019undefinedVenue: Xcel Energy Center
+Location: St Paul, MN, United States
+
+Date: 09/16/2019undefinedVenue: Fiserv Forum
+Location: Milwaukee, WI, United States
+
+Date: 09/17/2019undefinedVenue: United Center
+Location: Chicago, IL, United States
+
+Date: 09/19/2019undefinedVenue: United Center
+Location: Chicago, IL, United States
+
+Date: 09/20/2019undefinedVenue: Sprint Center
+Location: Kansas City, MO, United States
+
+Date: 09/22/2019undefinedVenue: American Airlines Center
+Location: Dallas, TX, United States
+
+Date: 09/25/2019undefinedVenue: Toyota Center
+Location: Houston, TX, United States
+
+Date: 09/26/2019undefinedVenue: AT&T Center
 Location: San Antonio, TX, United States
-Date: 10/25/2019Venue: National Stadion Bukarest
-Location: Bucharest, , Romania
-Date: 08/14/2019Venue: Ernst-Happel-Stadion
-Location: Wien, , Austria
-Date: 08/16/2019Venue: Maimarktgelände
-Location: Mannheim, , Germany
-Date: 08/25/2019Venue: Capitol
-Location: Perth Wa, , Australia
-Date: 08/31/2019Venue: Olympiastadion
-Location: Munchen, , Germany
-Date: 08/23/2019Venue: Chase Center
+
+Date: 09/27/2019undefinedVenue: BOK Center
+Location: Tulsa, OK, United States
+
+Date: 09/29/2019undefinedVenue: Pepsi Center
+Location: Denver, CO, United States
+
+Date: 10/01/2019undefinedVenue: Vivint Smart Home Arena
+Location: Salt Lake City, UT, United States
+
+Date: 10/03/2019undefinedVenue: Talking Stick Resort Arena
+Location: Phoenix, AZ, United States
+
+Date: 10/05/2019undefinedVenue: Honda Center
+Location: Anaheim, CA, United States
+
+Date: 10/06/2019undefinedVenue: Chase Center
 Location: San Francisco, CA, United States
-Date: 09/08/2019Venue: Kulturhuset i Svalöv
-Location: Svalov, , Sweden
-Date: 10/09/2019Venue: Optus Stadium
-Location: Burswood, , Australia
-Date: 10/17/2019Venue: Adelaide Oval
-Location: North Adelaide, , Australia
-Date: 10/20/2019Venue: Marvel Stadium
-Location: Docklands, , Australia
-Date: 10/22/2019Venue: Marvel Stadium
-Location: Docklands, , Australia
-Date: 10/24/2019Venue: ANZ Stadium
-Location: Sydney Olympic Park, , Australia
-Date: 10/26/2019Venue: Queensland Sport And Athletics Centre (QSAC)
-Location: Brisbane, , Australia
-Date: 10/29/2019Venue: Mt Smart Stadium
-Location: Auckland, , New Zealand
-Date: 10/31/2019Venue: Mt Smart Stadium
-Location: Auckland, , New Zealand
-Date: 11/02/2019Venue: PGE Narodowy
-Location: Warsaw, , Poland
-Date: 08/21/2019Venue: Chase Center
-Location: San Francisco, CA, United States
-Date: 09/06/2019Venue: Letiště Letňany
-Location: Prague, , Czech Republic
-Date: 08/18/2019Venue: National Stadion Bukarest
-Location: Bucharest, , Romania
-Date: 08/14/2019Venue: Olympiastadion
-Location: Munchen, , Germany
-Date: 08/23/2019Venue: Maimarktgelände
-Location: Mannheim, , Germany
-Date: 08/25/2019Venue: Capitol
-Location: Perth Wa, , Australia
-Date: 08/31/2019Venue: Chase Center
-Location: San Francisco, CA, United States
-Date: 09/06/2019Venue: Chase Center
-Location: San Francisco, CA, United States
-Date: 09/08/2019Venue: Ernst-Happel-Stadion
-Location: Wien, , Austria
-Date: 08/16/2019Venue: Optus Stadium
-Location: Burswood, , Australia
-Date: 10/17/2019Venue: Adelaide Oval
-Location: North Adelaide, , Australia
-Date: 10/20/2019Venue: Marvel Stadium
-Location: Docklands, , Australia
-Date: 10/22/2019Venue: Marvel Stadium
-Location: Docklands, , Australia
-Date: 10/24/2019Venue: ANZ Stadium
-Location: Sydney Olympic Park, , Australia
-Date: 10/26/2019Venue: Kulturhuset i Svalöv
-Location: Svalov, , Sweden
-Date: 10/09/2019Venue: Mt Smart Stadium
-Location: Auckland, , New Zealand
-Date: 10/31/2019Venue: Mt Smart Stadium
-Location: Auckland, , New Zealand
-Date: 11/02/2019Venue: Queensland Sport And Athletics Centre (QSAC)
-Location: Brisbane, , Australia
-Date: 10/29/2019Venue: PGE Narodowy
-Location: Warsaw, , Poland
-Date: 08/21/2019Venue: Letiště Letňany
-Location: Prague, , Czech Republic
-Date: 08/18/2019Venue: National Stadion Bukarest
-Location: Bucharest, , Romania
-Date: 08/14/2019Venue: Ernst-Happel-Stadion
-Location: Wien, , Austria
-Date: 08/16/2019Venue: Letiště Letňany
-Location: Prague, , Czech Republic
-Date: 08/18/2019Venue: PGE Narodowy
-Location: Warsaw, , Poland
-Date: 08/21/2019Venue: Olympiastadion
-Location: Munchen, , Germany
-Date: 08/23/2019Venue: Maimarktgelände
-Location: Mannheim, , Germany
-Date: 08/25/2019Venue: Capitol
-Location: Perth Wa, , Australia
-Date: 08/31/2019Venue: Chase Center
-Location: San Francisco, CA, United States
-Date: 09/06/2019Venue: Chase Center
-Location: San Francisco, CA, United States
-Date: 09/08/2019Venue: Kulturhuset i Svalöv
-Location: Svalov, , Sweden
-Date: 10/09/2019Venue: Optus Stadium
-Location: Burswood, , Australia
-Date: 10/17/2019Venue: Adelaide Oval
-Location: North Adelaide, , Australia
-Date: 10/20/2019Venue: Marvel Stadium
-Location: Docklands, , Australia
-Date: 10/22/2019Venue: Marvel Stadium
-Location: Docklands, , Australia
-Date: 10/24/2019Venue: ANZ Stadium
-Location: Sydney Olympic Park, , Australia
-Date: 10/26/2019Venue: Queensland Sport And Athletics Centre (QSAC)
-Location: Brisbane, , Australia
-Date: 10/29/2019Venue: Mt Smart Stadium
-Location: Auckland, , New Zealand
-Date: 10/31/2019Venue: Mt Smart Stadium
-Location: Auckland, , New Zealand
-Date: 11/02/2019UserOutputUserOutputUserOutputUserOutputUserOutputUserOutputUserOutputUserOutputUserOutput
+
+Date: 10/08/2019undefinedVenue: Rogers Arena
+Location: Vancouver, , Canada
+
+Date: 10/11/2019undefinedVenue: Tacoma Dome
+Location: Tacoma, WA, United States
+
+Date: 10/12/2019undefinedVenue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+Location: Portland, OR, United States
+
+Date: 10/13/2019undefinedVenue: Golden 1 Center
+Location: Sacramento, CA, United States
+
+Date: 10/15/2019undefinedVenue: Pechanga Arena
+Location: San Diego, CA, United States
+
+Date: 10/17/2019undefinedVenue: MGM Grand Garden Arena
+Location: Las Vegas, NV, United States
+
+Date: 10/18/2019undefinedVenue: Hollywood Bowl
+Location: Los Angeles, CA, United States
+
+Date: 10/20/2019undefinedVenue: Hollywood Bowl
+Location: Los Angeles, CA, United States
+
+Date: 10/21/2019undefinedVenue: Auditorio Citibanamex
+Location: Monterrey, , Mexico
+
+Date: 10/27/2019undefinedVenue: Auditorio Citibanamex
+Location: Monterrey, , Mexico
+
+Date: 10/28/2019undefinedVenue: RB PALACIO DE LOS DEPORTES
+Location: Nuevo Mexico, , Mexico
+
+Date: 10/30/2019undefinedVenue: Palacio de los Deportes
+Location: Nuevo Mexico, , Mexico
+
+Date: 10/31/2019undefinedVenue: Arena VFG
+Location: Ojo De Agua De Los Negros, , Mexico
+
+Date: 11/02/2019undefinedVenue: Smoothie King Center
+Location: New Orleans, LA, United States
+
+Date: 11/12/2019undefinedVenue: Legacy Arena
+Location: Birmingham, AL, United States
+
+Date: 11/13/2019undefinedVenue: BB&T Center
+Location: Sunrise, FL, United States
+
+Date: 11/15/2019undefinedVenue: Amway Center
+Location: Orlando, FL, United States
+
+Date: 11/16/2019undefinedVenue: VyStar Veterans Memorial Arena
+Location: Jacksonville, FL, United States
+
+Date: 11/17/2019undefinedVenue: Infinite Energy Theater
+Location: Duluth, GA, United States
+
+Date: 11/19/2019undefinedVenue: Spectrum Center
+Location: Charlotte, NC, United States
+
+Date: 11/20/2019undefinedVenue: Prudential Center
+Location: Newark, NJ, United States
+
+Date: 11/22/2019undefinedVenue: Barclays Center
+Location: Brooklyn, NY, United States
+
+Date: 11/23/2019undefinedVenue: TD Garden
+Location: Boston, MA, United States
+
+Date: 11/24/2019undefinedVenue: Scotiabank Arena
+Location: Toronto, , Canada
+
+Date: 11/26/2019undefinedVenue: Bell Centre
+Location: Montreal, , Canada
+
+Date: 11/27/2019undefinedVenue: Boardwalk Hall
+Location: Atlantic City, NJ, United States
+
+Date: 11/29/2019undefinedVenue: Royal Farms Arena
+Location: Baltimore, MD, United States
+
+Date: 11/30/2019undefinedVenue: Allstate Arena
+Location: Rosemont, IL, United States
+
+Date: 12/03/2019undefinedVenue: CHI Health Center Omaha
+Location: Omaha, NE, United States
+
+Date: 12/04/2019undefinedVenue: American Airlines Center
+Location: Dallas, TX, United States
+
+Date: 12/06/2019undefinedVenue: Frank C Erwin Special Events Center
+Location: Austin, TX, United States
+
+Date: 12/07/2019undefinedVenue: Talking Stick Resort Arena
+Location: Phoenix, AZ, United States
+
+Date: 12/10/2019undefinedVenue: Oracle Arena
+Location: Oakland, CA, United States
+
+Date: 12/12/2019undefinedVenue: The Forum
+Location: Los Angeles, CA, United States
+
+Date: 12/14/2019undefinedVenue: The Forum
+Location: Los Angeles, CA, United States
+
+Date: 12/15/2019undefinedVenue: Arena Birmingham
+Location: Birmingham, , United Kingdom
+
+Date: 01/29/2020undefinedVenue: 3Arena
+Location: Dublin, , Ireland
+
+Date: 01/31/2020undefinedVenue: The O2
+Location: London, , United Kingdom
+
+Date: 02/02/2020undefinedVenue: The SSE Arena Wembley
+Location: London, , United Kingdom
+
+Date: 02/03/2020undefinedVenue: SSE Hydro
+Location: Glasgow, , United Kingdom
+
+Date: 02/05/2020undefinedVenue: Manchester Arena
+Location: Manchester, , United Kingdom
+
+Date: 02/06/2020undefinedVenue: Lotto Arena
+Location: Antwerpen, , Belgium
+
+Date: 02/08/2020undefinedVenue: Mercedes-Benz Arena
+Location: Berlin, , Germany
+
+Date: 02/10/2020undefinedVenue: Lanxess Arena
+Location: Köln, , Germany
+
+Date: 02/11/2020undefinedVenue: Hallenstadion
+Location: Zürich, , Switzerland
+
+Date: 02/13/2020undefinedVenue: Mediolanum Forum
+Location: Assago, , Italy
+
+Date: 02/14/2020undefinedVenue: Wizin Center
+Location: Madrid, , Spain
+
+Date: 02/16/2020undefinedVenue: Palau Sant Jordi
+Location: Barcelona, , Spain
+
+Date: 02/17/2020undefinedVenue: SUD DE FRANCE ARENA
+Location: Pérols, , France
+
+Date: 02/18/2020undefinedVenue: Ziggo Dome
+Location: Amsterdam Zuidoost, , Netherlands
+
+Date: 02/20/2020undefinedVenue: La nuit du Mali - AccorHotels Arena
+Location: Paris, , France
+
+Date: 02/22/2020undefinedVenue: Wells Fargo Center
+Location: Philadelphia, PA, United States
+
+Date: 08/18/2019undefinedVenue: Capital One Arena
+Location: Washington, DC, United States
+
+Date: 08/15/2019undefinedVenue: TD Garden
+Location: Boston, MA, United States
+
+Date: 08/17/2019undefined

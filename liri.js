@@ -11,7 +11,11 @@ var fs = require("fs");
 
 //setting the input to process.argv[2]
 let userInput = process.argv[2];
-
+let randomName = [];
+for (var i = 3; i < process.argv.length + 3; i++) {
+  randomName.push(process.argv[i]);
+}
+let mediaName = randomName.join(" ").trim();
 //FUNCTIONS//
 function useLiri(userInput) {
   switch (userInput) {
@@ -35,8 +39,10 @@ function useLiri(userInput) {
 //SONG SEARCH
 function searchSong() {
   var songName = process.argv[3];
-  if (!songName) {
+  if (mediaName === "") {
     songName = "The Sign Ace of Base";
+  } else {
+    songName = mediaName;
   }
   spotify.search({ type: "track", query: songName, limit: 1 }, function(
     error,
@@ -79,8 +85,10 @@ function searchSong() {
 //MOVIE SEARCH
 function searchMovie() {
   var movieName = process.argv[3];
-  if (!movieName) {
+  if (mediaName === "") {
     movieName = "Iron Man";
+  } else {
+    movieName = mediaName;
   }
   var queryURL =
     `http://www.omdbapi.com/?t=` + movieName + `&y=&plot=short&apikey=trilogy`;
@@ -123,9 +131,15 @@ function searchMovie() {
 //CONCERT SEARCH
 function concertSearch() {
   var artistName = process.argv[3];
-  var queryURL = `https://rest.bandsintown.com/artists/ +
-    ${artistName} +
-    /events?app_id=${bandsInTown}`;
+  if (mediaName === "") {
+    artistName = "Metalica";
+  } else {
+    artistName = mediaName;
+  }
+  var queryURL =
+    `https://rest.bandsintown.com/artists/` +
+    artistName +
+    `/events?app_id=${bandsInTown}`;
 
   axios.get(queryURL).then(function(response) {
     for (var i = 0; i < response.data.length; i++) {
@@ -156,8 +170,13 @@ function concertSearch() {
           ", " +
           response.data[i].venue.country +
           "\n" +
+          "\n" +
           "Date: " +
-          moment(response.data[i].datetime).format("MM/DD/YYYY" + "\n")
+          moment(response.data[i].datetime).format("MM/DD/YYYY" + "\n") +
+          console.log(
+            "|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|" +
+              "\n"
+          )
       );
     }
   });
@@ -166,15 +185,18 @@ function concertSearch() {
 //LOGGING TO FILES
 function readFile() {
   fs.readFile("random.txt", "utf8", function(error, data) {
-    var content = data.split(",");
-    console.log(content);
-    (userInput = content[0]), content[1];
+    if (error) {
+      return console.log(error);
+    }
+    var dataArr = data.split(",");
+    userInput = dataArr[0];
+    mediaName = dataArr[1];
     useLiri(userInput);
   });
 }
 
 function writeToFile(UserOutput) {
-  fs.appendFile("log.txt", "UserOutput", function(error) {
+  fs.appendFile("log.txt", `${UserOutput}`, function(error) {
     if (error) {
       return console.log(error);
     }
