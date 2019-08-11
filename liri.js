@@ -172,11 +172,7 @@ function concertSearch() {
           "\n" +
           "\n" +
           "Date: " +
-          moment(response.data[i].datetime).format("MM/DD/YYYY" + "\n") +
-          console.log(
-            "|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|" +
-              "\n"
-          )
+          moment(response.data[i].datetime).format("MM/DD/YYYY" + "\n")
       );
     }
   });
