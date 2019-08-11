@@ -46,12 +46,17 @@ function searchSong() {
       console.log("Error has Occured " + error);
       return;
     }
+
     var track = data.tracks.items;
     for (var i = 0; i < track.length; i++) {
       console.log("\n" + "Artist: " + track[i].artists[0].name);
       console.log("Song: " + track[i].name);
       console.log("Preview: " + track[i].preview_url);
-      console.log("Album: " + track[i].albumb.name + "\n");
+      console.log("Album: " + track[i].album.name + "\n");
+      console.log(
+        "|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|-*-|" +
+          "\n"
+      );
       writeToFile(
         "Artist: " +
           track[i].artists[0].name +
@@ -75,10 +80,12 @@ function searchSong() {
 function searchMovie() {
   var movieName = process.argv[3];
   if (!movieName) {
-    movieName = "Mulan";
+    movieName = "Ironman";
   }
-  var queryURL = `http://www.omdbapi.com/?apikey=${omdb}&t=${movieName}`;
-
+  var queryURL =
+    `http://www.omdbapi.com/?t=` + movieName + `&y=&plot=short&apikey=trilogy`;
+  //var queryURL =
+  //`http://www.omdbapi.com/?t=` + movieName + `&y=&plot=short&apikey=${omdb}`;
   axios.get(queryURL).then(function(response) {
     console.log("Title: " + response.data.Title);
     console.log("Year: " + response.data.Year);
