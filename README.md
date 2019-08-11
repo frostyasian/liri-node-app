@@ -1,6 +1,6 @@
 # liri-node-app
 
-Created by Zuoyi Phang
+`Created by Zuoyi Phang`
 
 ## Introduction
 
@@ -21,7 +21,7 @@ LIRI Bot is a command-line node application designed to allow users to easily se
 
 ## Spotify Usage:
 
-`node liri.js spotify-this-song ""`
+`node liri.js spotify-this-song "(song name)"`
 Using the Spotify API, the user inputs the command `spotify-this-song` in addition to their desired song title, the data that returns includes the Name of the Artist/Artists, the Song Title, the Preview Url (only if it is available), and the Album Name.
 Here you can see when "Sound & Color" is searched:
 ![](screenshots/S1.png)
@@ -30,11 +30,19 @@ If the user did not enter a specific song then the default song "Ace of Base - T
 
 ## BandsInTown Usage:
 
-`node liri.js concert-this`
+`node liri.js concert-this (artist name)`
 Using the BandsInTown API, the user is able to search upcomming concerts by giving the command `concert-this` in addition to their desired Artist. The data that returns include the Venue Name, Venue Location, and the Date of the Concert. Here you can see when "Cage the Elephant" is searched:
 ![](screenshots/C1.png)
 If the user did not enter a specific song then the default Artist "Metalica" will be shown.
 ![](screenshots/C2.png)
+
+## OMDB API
+
+`node liri.js movie-this (movie name)`
+This feature uses the OMDB API to search for a movie that matches a given movie title. Data returned includes the title of the movie, the year the movie was released, the movie's country of origin, languages in which the movie is available, a brief summary of the plot, and a list of the main actors in the film. Here you can see when "Spider-man" is searched:
+![](screenshots/M1.png)
+If the user did not enter a specific movie the nthe default Movie "Iron Man" will be shown.
+![](screenshots/M2.png)
 
 ## Read Instruction from File:
 
