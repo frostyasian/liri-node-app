@@ -10,14 +10,14 @@ LIRI Bot is a command-line node application designed to allow users to easily se
 
 ## Methods Used:
 
-*Node.JS
-*fs
-*OMDB API
-*Node-Spotify-API
-*BandsInTown API
-*Moment
-*Axios
-*DotEnv
+- Node.JS
+- fs
+- OMDB API
+- Node-Spotify-API
+- BandsInTown API
+- Moment
+- Axios
+- DotEnv
 
 ## Spotify Usage:
 
