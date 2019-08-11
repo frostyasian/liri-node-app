@@ -1,0 +1,113 @@
+Venue: The Criterion OKC
+Location: Oklahoma City, OK, United States
+Date: 10/21/2019Venue: Sunken Garden Theater
+Location: San Antonio, TX, United States
+Date: 10/25/2019Venue: National Stadion Bukarest
+Location: Bucharest, , Romania
+Date: 08/14/2019Venue: Ernst-Happel-Stadion
+Location: Wien, , Austria
+Date: 08/16/2019Venue: Maimarktgelände
+Location: Mannheim, , Germany
+Date: 08/25/2019Venue: Capitol
+Location: Perth Wa, , Australia
+Date: 08/31/2019Venue: Olympiastadion
+Location: Munchen, , Germany
+Date: 08/23/2019Venue: Chase Center
+Location: San Francisco, CA, United States
+Date: 09/08/2019Venue: Kulturhuset i Svalöv
+Location: Svalov, , Sweden
+Date: 10/09/2019Venue: Optus Stadium
+Location: Burswood, , Australia
+Date: 10/17/2019Venue: Adelaide Oval
+Location: North Adelaide, , Australia
+Date: 10/20/2019Venue: Marvel Stadium
+Location: Docklands, , Australia
+Date: 10/22/2019Venue: Marvel Stadium
+Location: Docklands, , Australia
+Date: 10/24/2019Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date: 10/26/2019Venue: Queensland Sport And Athletics Centre (QSAC)
+Location: Brisbane, , Australia
+Date: 10/29/2019Venue: Mt Smart Stadium
+Location: Auckland, , New Zealand
+Date: 10/31/2019Venue: Mt Smart Stadium
+Location: Auckland, , New Zealand
+Date: 11/02/2019Venue: PGE Narodowy
+Location: Warsaw, , Poland
+Date: 08/21/2019Venue: Chase Center
+Location: San Francisco, CA, United States
+Date: 09/06/2019Venue: Letiště Letňany
+Location: Prague, , Czech Republic
+Date: 08/18/2019Venue: National Stadion Bukarest
+Location: Bucharest, , Romania
+Date: 08/14/2019Venue: Olympiastadion
+Location: Munchen, , Germany
+Date: 08/23/2019Venue: Maimarktgelände
+Location: Mannheim, , Germany
+Date: 08/25/2019Venue: Capitol
+Location: Perth Wa, , Australia
+Date: 08/31/2019Venue: Chase Center
+Location: San Francisco, CA, United States
+Date: 09/06/2019Venue: Chase Center
+Location: San Francisco, CA, United States
+Date: 09/08/2019Venue: Ernst-Happel-Stadion
+Location: Wien, , Austria
+Date: 08/16/2019Venue: Optus Stadium
+Location: Burswood, , Australia
+Date: 10/17/2019Venue: Adelaide Oval
+Location: North Adelaide, , Australia
+Date: 10/20/2019Venue: Marvel Stadium
+Location: Docklands, , Australia
+Date: 10/22/2019Venue: Marvel Stadium
+Location: Docklands, , Australia
+Date: 10/24/2019Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date: 10/26/2019Venue: Kulturhuset i Svalöv
+Location: Svalov, , Sweden
+Date: 10/09/2019Venue: Mt Smart Stadium
+Location: Auckland, , New Zealand
+Date: 10/31/2019Venue: Mt Smart Stadium
+Location: Auckland, , New Zealand
+Date: 11/02/2019Venue: Queensland Sport And Athletics Centre (QSAC)
+Location: Brisbane, , Australia
+Date: 10/29/2019Venue: PGE Narodowy
+Location: Warsaw, , Poland
+Date: 08/21/2019Venue: Letiště Letňany
+Location: Prague, , Czech Republic
+Date: 08/18/2019Venue: National Stadion Bukarest
+Location: Bucharest, , Romania
+Date: 08/14/2019Venue: Ernst-Happel-Stadion
+Location: Wien, , Austria
+Date: 08/16/2019Venue: Letiště Letňany
+Location: Prague, , Czech Republic
+Date: 08/18/2019Venue: PGE Narodowy
+Location: Warsaw, , Poland
+Date: 08/21/2019Venue: Olympiastadion
+Location: Munchen, , Germany
+Date: 08/23/2019Venue: Maimarktgelände
+Location: Mannheim, , Germany
+Date: 08/25/2019Venue: Capitol
+Location: Perth Wa, , Australia
+Date: 08/31/2019Venue: Chase Center
+Location: San Francisco, CA, United States
+Date: 09/06/2019Venue: Chase Center
+Location: San Francisco, CA, United States
+Date: 09/08/2019Venue: Kulturhuset i Svalöv
+Location: Svalov, , Sweden
+Date: 10/09/2019Venue: Optus Stadium
+Location: Burswood, , Australia
+Date: 10/17/2019Venue: Adelaide Oval
+Location: North Adelaide, , Australia
+Date: 10/20/2019Venue: Marvel Stadium
+Location: Docklands, , Australia
+Date: 10/22/2019Venue: Marvel Stadium
+Location: Docklands, , Australia
+Date: 10/24/2019Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date: 10/26/2019Venue: Queensland Sport And Athletics Centre (QSAC)
+Location: Brisbane, , Australia
+Date: 10/29/2019Venue: Mt Smart Stadium
+Location: Auckland, , New Zealand
+Date: 10/31/2019Venue: Mt Smart Stadium
+Location: Auckland, , New Zealand
+Date: 11/02/2019
